@@ -6,6 +6,6 @@
 	foreach ($customers as $row) {
 		echo '<tr><td>'.$row['etunimi'].'</td><td>'.$row['sukunimi'].'</td><td>'.$row['email'].'</td></tr>';
 	}
-	?>
+?>
 
 </table>
